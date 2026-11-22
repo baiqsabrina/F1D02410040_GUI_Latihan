@@ -4,7 +4,7 @@ Program GUI sederhana untuk latihan komponen GUI Java Swing. Pengguna mengisi **
 
 ## Tampilan Program
 
-![Tampilan program](sapa.png)
+![Tampilan program](ss hasil/sapa.png)
 
 ## Struktur File
 
