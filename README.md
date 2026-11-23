@@ -6,7 +6,9 @@ Program GUI sederhana untuk latihan komponen GUI Java Swing. Pengguna mengisi **
 ## Tampilan Program
 
 ![Hasil klik Sapa](hasil/sapa.png)
-![Hasil klik Reset]hasil/reset.png)
+
+
+![Hasil klik Reset](hasil/reset.png)
 
 ## Struktur File
 
