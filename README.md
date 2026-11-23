@@ -87,12 +87,3 @@ MainFrame (JFrame, BorderLayout)
 └── SOUTH   : ButtonPanel (JPanel, FlowLayout)
               └── AppButton "Sapa", AppButton "Reset"
 ```
-
-## Cara Menjalankan
-
-Pastikan JDK sudah terpasang, lalu jalankan di folder yang berisi semua file `.java`:
-
-```bash
-javac *.java
-java Main
-```
