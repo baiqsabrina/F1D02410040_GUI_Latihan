@@ -1,7 +1,7 @@
 # Baiq Sabrina Ramadhani
 # F1D02410040
 
-Program GUI sederhana untuk latihan komponen GUI Java Swing. Pengguna mengisi **Nama** dan **NIM**, lalu klik **Sapa**. Hasil sapaan disimpan di kotak **Hasil** (setiap klik menambah satu baris), dan tombol **Reset** mengosongkan form dan kotak Hasil.
+Program GUI sederhana untuk latihan komponen GUI Java Swing. Pengguna mengisi **Nama** dan **NIM**, lalu klik **Sapa**. Hasil sapaan disimpan di kotak **Hasil**, dan tombol **Reset** mengosongkan form dan kotak Hasil.
 
 ## Tampilan Program
 
